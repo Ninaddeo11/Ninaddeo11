@@ -214,6 +214,25 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <div align="center">
 
-<img src="assets/banner/connect.svg" width="100%" alt="Let's Connect"/>
+<img src="assets/banner/connect-header.svg" width="100%" alt="Let's Connect"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/Ninaddeo11"><img src="assets/banner/card-github.svg" width="100%"/></a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/summersalt/"><img src="assets/banner/card-linkedin.svg" width="100%"/></a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:ninaddeo11@gmail.com"><img src="assets/banner/card-email.svg" width="100%"/></a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.instagram.com/summersalt1.0/"><img src="assets/banner/card-instagram.svg" width="100%"/></a>
+</td>
+</tr>
+</table>
+
+<img src="assets/banner/connect-footer.svg" width="100%" alt="Always open to collaboration"/>
 
 </div>

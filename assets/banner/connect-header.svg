@@ -1,0 +1,41 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04030c"/>
+      <stop offset="50%" stop-color="#080418"/>
+      <stop offset="100%" stop-color="#0a0512"/>
+    </linearGradient>
+    <linearGradient id="titleGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7b5cff"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <pattern id="gridc" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#151a33" stroke-width="0.6" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="230" fill="url(#bgc)"/>
+  <rect width="1200" height="230" fill="url(#gridc)"/>
+
+  <g stroke="#25325c" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M0 40 H140 L170 70 H400"/>
+    <path d="M1200 40 H1060 L1030 70 H800"/>
+    <circle cx="140" cy="40" r="4" fill="#00e5ff"/>
+    <circle cx="1060" cy="40" r="4" fill="#7b5cff"/>
+  </g>
+
+  <g transform="translate(600,60)">
+    <path d="M0,-38 L34,-24 V6 C34,32 17,48 0,58 C-17,48 -34,32 -34,6 V-24 Z"
+          fill="#0d0a1e" stroke="url(#titleGrad2)" stroke-width="3"/>
+    <rect x="-10" y="-6" width="20" height="16" rx="3" fill="none" stroke="#00e5ff" stroke-width="2.5"/>
+    <path d="M-6,-6 V-12 a6,6 0 0 1 12,0 V-6" fill="none" stroke="#00e5ff" stroke-width="2.5"/>
+    <circle cx="0" cy="4" r="2.5" fill="#00e5ff"/>
+  </g>
+
+  <text x="600" y="185" text-anchor="middle" font-family="'Fira Code','Consolas',monospace" font-weight="800" font-size="54">
+    <tspan fill="#f2f4ff">LET'S </tspan><tspan fill="url(#titleGrad2)">CONNECT</tspan>
+  </text>
+  <text x="600" y="220" text-anchor="middle" font-family="'Fira Code','Consolas',monospace" font-size="17" letter-spacing="4" fill="#7d8bb3">
+    COLLABORATE • BUILD • SECURE THE FUTURE
+  </text>
+</svg>
