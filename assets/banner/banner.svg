@@ -1,0 +1,47 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="45%" stop-color="#050b1a"/>
+      <stop offset="100%" stop-color="#0a0420"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7b5cff"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#12203a" stroke-width="0.6" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <rect width="1000" height="240" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1000" height="240" fill="none" stroke="#00e5ff" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="6" y="6" width="988" height="228" fill="none" stroke="#7b5cff" stroke-opacity="0.25" stroke-width="1"/>
+
+  <circle cx="40" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="62" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="84" cy="34" r="6" fill="#27c93f"/>
+  <text x="110" y="39" font-family="'Fira Code','Consolas',monospace" font-size="13" fill="#4d5b7c">ninad@security-research: ~</text>
+
+  <text x="50" y="118" font-family="'Fira Code','Consolas',monospace" font-size="46" font-weight="700" fill="url(#text)">
+    &gt; NINAD DEO_
+    <animate attributeName="opacity" values="1;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="52" y="156" font-family="'Fira Code','Consolas',monospace" font-size="18" fill="#8fa3c7">
+    Security Researcher · Full-Stack Developer · IEEE Volunteer
+  </text>
+
+  <text x="52" y="188" font-family="'Fira Code','Consolas',monospace" font-size="14" fill="#5a6a8c">
+    [ Offensive Security ] [ DevSecOps ] [ AI/ML ] [ Public Speaking ] [ Leadership ]
+  </text>
+
+  <rect x="52" y="150" width="2" height="20" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

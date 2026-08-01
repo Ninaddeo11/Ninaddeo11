@@ -1,16 +1,209 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ninaddeo11/Ninaddeo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner/banner.svg" width="100%" alt="Ninad Deo banner"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Security+Researcher+Intern+%40+ACDI-ICS;UNESCO+x+UoM+Participant;IEEE+Student+Volunteer+%7C+GDG+Cybersecurity+Lead;Full-Stack+Developer+%7C+Anchorperson+%7C+Public+Speaker" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ninaddeo11-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/Ninaddeo11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-summersalt-7b5cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/summersalt/)
+[![Email](https://img.shields.io/badge/Email-ninaddeo11%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:ninaddeo11@gmail.com)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## `whoami`
+
+I'm **Ninad**, a security researcher and full-stack developer who moves between offense and defense — building detection tooling one week, breaking things responsibly the next. My work sits at the intersection of **cybersecurity, AI, and public communication**: I write the exploit writeups, and I'm also comfortable being the one presenting them on stage.
+
+```yaml
+role:          Security Researcher Intern
+programs:      UNESCO x University of Mauritius Participant
+leadership:    IEEE Student Volunteer · GDG Cybersecurity Lead
+also:          Full-Stack Developer · Anchorperson · Blogger & Content Writer
+focus:         [Offensive Security, ICS/SCADA Security, AI-assisted SOC tooling, DevSecOps]
+currently:     Building EDR + attack-path intelligence tooling (ZORA)
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## Leadership & Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ IEEE Student Volunteer
+Active volunteer contributing to technical events, workshops, and outreach within the IEEE student community.
+
+### 🌐 GDG Cybersecurity Lead
+Leading the cybersecurity vertical at Google Developer Groups — organizing sessions, CTFs, and awareness drives.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Anchorperson & Public Speaker
+Hosting technical and institutional events, comfortable translating deep technical work for a general audience.
+
+### ✍️ Blogger, Content Writer & Social Media Manager
+Writing and managing content that bridges security research and accessible tech communication.
+
+</td>
+</tr>
+</table>
+
+**UNESCO x University of Mauritius** — Selected participant, collaborating on cross-institutional academic/research initiatives.
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [ZORA](https://github.com/Ninaddeo11/ZORA)
+**AI-powered EDR platform with attack-path intelligence**
+
+Transforms raw Nmap/OpenVAS scan data into actionable security intelligence — correlating CVEs into probable attack paths, scoring risk with CISA KEV data, and assisting analysts through an AI SOC Copilot while keeping humans in control of remediation.
+
+`TypeScript` `NVD API` `JWT/RBAC` `Attack Path Visualization`
+
+</td>
+<td width="50%">
+
+### 🚗 [Drivable Space Segmentation](https://github.com/Ninaddeo11/Drivable-Space-Segmentation)
+**Pixel-wise road segmentation for L4 autonomous vehicles**
+
+Custom U-Net CNN (7.7M params) trained from scratch on nuScenes — classifying drivable vs. non-drivable space in real time, including edge cases like grass transitions and construction barriers.
+
+`mIoU 0.9489` · `43+ FPS` · `Python` · `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏭 [ACDI-ICS](https://github.com/Ninaddeo11/acdi-ics)
+**ICS/SCADA security research**
+
+Research and tooling around industrial control system security — anomaly detection and threat modelling for critical infrastructure environments.
+
+`Python` `ICS/SCADA` `Threat Modelling`
+
+</td>
+<td width="50%">
+
+### 🤝 [Hack4Humanity Portal](https://github.com/Ninaddeo11/hack4humanity-portal)
+**Hackathon platform for social-impact projects**
+
+A Next.js portal built to power submissions, teams, and judging for a humanitarian-focused hackathon.
+
+`Next.js` `TypeScript` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 [TRAIN × BRAINCON](https://github.com/Ninaddeo11/TRAIN-BRAINCON)
+**Unified academic conference & journal platform**
+
+TRAIN — a journal management system paired with BRAINCON's conference workflow, unified into a single academic operations platform.
+
+`TypeScript` `Full-Stack`
+
+</td>
+<td width="50%">
+
+### ⚔️ [KRATOS](https://github.com/Ninaddeo11/Kratos)
+**ERP-style operations platform**
+
+A full-stack system project exploring structured operations/ERP workflows end-to-end.
+
+`TypeScript` `Full-Stack`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*More at [github.com/Ninaddeo11?tab=repositories](https://github.com/Ninaddeo11?tab=repositories)*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00e5ff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=7b5cff)
+![React](https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=react&logoColor=00e5ff)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=7b5cff)
+![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00e5ff)
+![Nmap](https://img.shields.io/badge/-Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=00e5ff)
+![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ninaddeo11&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&icon_color=7b5cff&text_color=8fa3c7" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninaddeo11&theme=react&hide_border=true&background=0a0a0a&ring=00e5ff&fire=7b5cff&currStreakLabel=00e5ff" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninaddeo11&layout=compact&theme=react&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=8fa3c7" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninaddeo11&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00e5ff&line=7b5cff&point=ffffff" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ninaddeo11&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ninaddeo11/Ninaddeo11/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Ninaddeo11/Ninaddeo11/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
+
+<div align="center">
+
+### 📫 Let's talk research, security, or your next hackathon idea
+
+[![GitHub](https://img.shields.io/badge/-Ninaddeo11-00e5ff?style=flat-square&logo=github&logoColor=white)](https://github.com/Ninaddeo11)
+[![LinkedIn](https://img.shields.io/badge/-summersalt-7b5cff?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/summersalt/)
+[![Gmail](https://img.shields.io/badge/-ninaddeo11%40gmail.com-00e5ff?style=flat-square&logo=gmail&logoColor=white)](mailto:ninaddeo11@gmail.com)
+
+<sub>⭐ Profile crafted with a terminal-cyber aesthetic — built to update itself via GitHub Actions.</sub>
+
+</div>
