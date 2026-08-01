@@ -174,16 +174,6 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
 
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ninaddeo11&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
-
 ## Contribution Snake
 
 <div align="center">
