@@ -144,16 +144,44 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=7b5cff)
-![React](https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=react&logoColor=00e5ff)
-![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=7b5cff)
-![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![Nmap](https://img.shields.io/badge/-Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=00e5ff)
-![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-the-badge&logo=git&logoColor=white)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash&theme=dark" height="55"/>
+
+<br/><br/>
+
+**Frontend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&theme=dark" height="55"/>
+
+<br/><br/>
+
+**AI / ML & Backend**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,flask,fastapi,postgres,mongodb,redis&theme=dark" height="55"/>
+
+<br/><br/>
+
+**Security & Offensive Tooling**
+
+![Nmap](https://img.shields.io/badge/Nmap-00e5ff?style=for-the-badge&logo=nmap&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=b967ff)
+
+<br/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,gcp,linux,git,github&theme=dark" height="55"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,firebase,supabase,vim&theme=dark" height="55"/>
 
 </div>
 
