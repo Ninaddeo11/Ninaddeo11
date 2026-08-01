@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Security+Researcher+Intern+%40+ACDI-ICS;UNESCO+x+UoM+Participant;IEEE+Student+Volunteer+%7C+GDG+Cybersecurity+Lead;Full-Stack+Developer+%7C+Anchorperson+%7C+Public+Speaker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Security+Researcher+Intern+%40+ACDI-ICS;UNESCO+x+University+of+Manchester+Participant;IEEE+Student+Volunteer+%7C+GDG+Cybersecurity+Lead;Full-Stack+Developer+%7C+Anchorperson+%7C+Public+Speaker" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@ I'm **Ninad**, a security researcher and full-stack developer who moves between 
 
 ```yaml
 role:          Security Researcher Intern
-programs:      UNESCO x University of Mauritius Participant
+programs:      UNESCO x University of Manchester Participant
 leadership:    IEEE Student Volunteer · GDG Cybersecurity Lead
 also:          Full-Stack Developer · Anchorperson · Blogger & Content Writer
 focus:         [Offensive Security, ICS/SCADA Security, AI-assisted SOC tooling, DevSecOps]
@@ -57,7 +57,7 @@ Writing and managing content that bridges security research and accessible tech 
 </tr>
 </table>
 
-**UNESCO x University of Mauritius** — Selected participant, collaborating on cross-institutional academic/research initiatives.
+**UNESCO x University of Manchester** — Selected participant, collaborating on cross-institutional academic/research initiatives.
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%"/>
 
