@@ -8,9 +8,10 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ninaddeo11-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/Ninaddeo11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-summersalt-7b5cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/summersalt/)
-[![Email](https://img.shields.io/badge/Email-ninaddeo11%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:ninaddeo11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ninaddeo11-b967ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/Ninaddeo11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-summersalt-3d8bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/summersalt/)
+[![Email](https://img.shields.io/badge/Email-ninaddeo11%40gmail.com-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:ninaddeo11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-summersalt1.0-ffb020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/summersalt1.0/)
 
 </div>
 
@@ -198,11 +199,7 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <div align="center">
 
-### 📫 Let's talk research, security, or your next hackathon idea
-
-[![GitHub](https://img.shields.io/badge/-Ninaddeo11-00e5ff?style=flat-square&logo=github&logoColor=white)](https://github.com/Ninaddeo11)
-[![LinkedIn](https://img.shields.io/badge/-summersalt-7b5cff?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/summersalt/)
-[![Gmail](https://img.shields.io/badge/-ninaddeo11%40gmail.com-00e5ff?style=flat-square&logo=gmail&logoColor=white)](mailto:ninaddeo11@gmail.com)
+<img src="assets/banner/connect.svg" width="100%" alt="Let's Connect"/>
 
 <sub>⭐ Profile crafted with a terminal-cyber aesthetic — built to update itself via GitHub Actions.</sub>
 
