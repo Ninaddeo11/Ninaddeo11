@@ -191,10 +191,7 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ninaddeo11&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&icon_color=7b5cff&text_color=8fa3c7" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninaddeo11&theme=react&hide_border=true&background=0a0a0a&ring=00e5ff&fire=7b5cff&currStreakLabel=00e5ff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninaddeo11&layout=compact&theme=react&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=8fa3c7" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninaddeo11&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00e5ff&line=7b5cff&point=ffffff" width="100%"/>
 
