@@ -201,6 +201,4 @@ A full-stack system project exploring structured operations/ERP workflows end-to
 
 <img src="assets/banner/connect.svg" width="100%" alt="Let's Connect"/>
 
-<sub>⭐ Profile crafted with a terminal-cyber aesthetic — built to update itself via GitHub Actions.</sub>
-
 </div>
